@@ -33,6 +33,7 @@ cTime = 0
 landmarks = []
 lis = []
 
+
 while True:
 
     success, img = cap.read()
