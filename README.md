@@ -33,3 +33,5 @@ Milestones
 Successfully implemented said Module!
 
 Feels Flexible and Has many UseCase Scenarios
+
+*Special Thanks to Nandan Manoharan of Class 9D for helping BETA-TEST the application.*
