@@ -2,7 +2,7 @@
 
 Hey Students of 9D!
 
-Hope you guys will like this Christmas Gift that you can use free of cost
+Hope you guys will like this Application that will definitely help you out.
 
 If you use my code or snippets of it anywhere else in a Public domain,
 Please credit me with my Github hyperlink :)
@@ -18,7 +18,7 @@ As humans, We have always felt the need to interface the real world with the Vir
 
 Goals
 
-To Make the Hand Detection module 80% Accurate: 
+To Make the Hand Detecting module 80% Accurate: 
 To translate Real-world XYZ Values to an XY Cartesian plane on which mouse data is derived from Hand Landmark Data: 
 
 The Hand Detection and Landmark Allocation:
