@@ -1,6 +1,6 @@
 # Project_HandY_V2.0
 
-Hey Students of 9D!
+Hey Students of 9th Grade!
 
 Hope you guys will like this Application that will definitely help you out.
 
